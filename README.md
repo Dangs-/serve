@@ -6,3 +6,4 @@ Microservice based E-Commerce Platform
 * Discovery Server
 * OAuth2 Server
 * Cart
+* Company
